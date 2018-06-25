@@ -18,7 +18,38 @@ html {
   font-size: 18px;
 }
 
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.designedin {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/bimg.png);
+}
+
+
+
 footer {
   text-align: left;
   background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+footer a {
+  color: white;
+  font-size: medium;
+  font-weight: bold;
 }
