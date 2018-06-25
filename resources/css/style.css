@@ -1,5 +1,5 @@
 html {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   text-align: center;
 }
 
@@ -19,17 +19,17 @@ html {
   font-weight: bold;
 }
 
-.process h2 {
+.supporting h2 {
   font-size: 32px;
   font-weight: bold;
 }
 
-.process h3 {
+.supporting h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
-.process p {
+.supporting p {
   font-size: 14px;
 }
 
