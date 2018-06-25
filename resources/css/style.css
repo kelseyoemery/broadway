@@ -4,7 +4,7 @@ html {
 }
 
 .head {
-  background-image: image ("../building.png");
+  background-image: url(../images/bimg.png);
 }
 
 .head h1 {
@@ -13,6 +13,12 @@ html {
   color: White;
 }
 
-.designedin {
-  background-image: image("building.png");
+.head a {
+  color: white;
+  font-size: 18px;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
 }
